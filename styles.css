@@ -138,6 +138,7 @@ body{
 	padding-right: 35px;
 	width: 115px;
 	position: relative;
+    text-decoration: underline;
 }
 
 .resume_wrapper .resume_right .resume_data .content{
