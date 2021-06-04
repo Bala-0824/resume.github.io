@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Summa oru Try</title>
+        <!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+    <style>
+        .btn {
+  background-color: black;
+  border:2px solid red ;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+  border-radius: 40px;
+  float: right;
+  margin-top: 10px;
+  clear: both;
+}
+.btn:hover {
+  background-color:white;
+  color:black;
+}
+    </style>    
+        <body>
+        <button class="btn" align="right" onclick="window.location.href='RPA.pdf'"><i class="fa fa-download"></i> Download a copy of This Resume</button>
+    </body>
+</html>
